@@ -6,6 +6,7 @@ on:
   push:
     branches:
     - workflow-new
+    - devradio-demo
 
   pull_request:
     branches:
