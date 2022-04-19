@@ -1,5 +1,5 @@
 AZURE_LOCATION: 'westus2'
-RESOURCE_NAME_PREFIX: 'devradio2'
+RESOURCE_NAME_PREFIX: 'devrad2'
 ENVIRONMENT_TAG: 'dev'
 DEPLOYMENT_NAME: 'devr-demo-deployment2'
 VM_USERNAME: 'agent'
