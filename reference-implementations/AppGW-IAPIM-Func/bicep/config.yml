@@ -1,8 +1,8 @@
 AZURE_LOCATION: 'westus2'
-RESOURCE_NAME_PREFIX: 'apimdemo'
+RESOURCE_NAME_PREFIX: 'apim-landingzone'
 ENVIRONMENT_TAG: 'dev'
 DEPLOYMENT_NAME: 'ase-demo-deployment'
 VM_USERNAME: 'agent'
-ACCOUNT_NAME: 'repalce me in repo secrets'
-CICD_AGENT_TYPE: 'azuredevops'
+ACCOUNT_NAME: 'github.com/xuhongl'
+CICD_AGENT_TYPE: none
 CERT_TYPE: 'selfsigned'
